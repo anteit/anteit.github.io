@@ -1,0 +1,92 @@
+/**
+ * Material You (M3) Design System Tokens
+ * Strict professional minimalism: neutral and soft pastel tones, no neon, no glow effects.
+ */
+
+:root {
+  /* Color Palette - M3 Neutral & Soft Tonal Palette (Dark Mode Base) */
+  --md-sys-color-background: #121316;
+  --md-sys-color-on-background: #e2e2e5;
+
+  --md-sys-color-surface: #141518;
+  --md-sys-color-surface-dim: #101114;
+  --md-sys-color-surface-bright: #37393e;
+  --md-sys-color-surface-container-lowest: #0c0d10;
+  --md-sys-color-surface-container-low: #191a1e;
+  --md-sys-color-surface-container: #1e1f23;
+  --md-sys-color-surface-container-high: #27282d;
+  --md-sys-color-surface-container-highest: #323338;
+
+  --md-sys-color-on-surface: #e2e2e5;
+  --md-sys-color-on-surface-variant: #c3c6cf;
+  --md-sys-color-outline: #8d9199;
+  --md-sys-color-outline-variant: #43474e;
+
+  /* Primary Accent: Restrained Soft Slate Blue (No neon) */
+  --md-sys-color-primary: #a1c8f6;
+  --md-sys-color-on-primary: #04315c;
+  --md-sys-color-primary-container: #234774;
+  --md-sys-color-on-primary-container: #d3e4ff;
+
+  /* Secondary: Soft Sage / Warm Grey */
+  --md-sys-color-secondary: #bec7d5;
+  --md-sys-color-on-secondary: #28313c;
+  --md-sys-color-secondary-container: #3f4753;
+  --md-sys-color-on-secondary-container: #dae3f2;
+
+  /* Tertiary: Soft Clay / Muted Warmth */
+  --md-sys-color-tertiary: #d6bfe6;
+  --md-sys-color-on-tertiary: #3b2b4a;
+  --md-sys-color-tertiary-container: #524162;
+  --md-sys-color-on-tertiary-container: #f2daff;
+
+  /* Danger / Error: Muted Brick Red */
+  --md-sys-color-error: #ffb4ab;
+  --md-sys-color-on-error: #690005;
+  --md-sys-color-error-container: #93000a;
+  --md-sys-color-on-error-container: #ffdad6;
+
+  /* Success / Status: Muted Mint */
+  --md-sys-color-success: #9ad4a6;
+  --md-sys-color-on-success: #003919;
+  --md-sys-color-success-container: #18522c;
+  --md-sys-color-on-success-container: #b5f1c1;
+
+  /* Typography */
+  --md-sys-typescale-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --md-sys-typescale-font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+
+  --md-sys-typescale-title-large: 500 1.25rem/1.6rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-title-medium: 500 1rem/1.4rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-title-small: 500 0.875rem/1.25rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-body-large: 400 1rem/1.5rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-body-medium: 400 0.875rem/1.35rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-body-small: 400 0.75rem/1.15rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-label-large: 500 0.875rem/1.25rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-label-medium: 500 0.75rem/1rem var(--md-sys-typescale-font-family);
+  --md-sys-typescale-label-small: 500 0.6875rem/0.9rem var(--md-sys-typescale-font-family);
+
+  /* Shape / Corner Radii */
+  --md-sys-shape-corner-none: 0px;
+  --md-sys-shape-corner-extra-small: 4px;
+  --md-sys-shape-corner-small: 8px;
+  --md-sys-shape-corner-medium: 12px;
+  --md-sys-shape-corner-large: 16px;
+  --md-sys-shape-corner-extra-large: 28px;
+  --md-sys-shape-corner-full: 9999px;
+
+  /* Shadows (M3 tonal subtle elevations - no colored glows) */
+  --md-sys-elevation-0: none;
+  --md-sys-elevation-1: 0px 1px 3px 1px rgba(0, 0, 0, 0.25), 0px 1px 2px 0px rgba(0, 0, 0, 0.35);
+  --md-sys-elevation-2: 0px 2px 6px 2px rgba(0, 0, 0, 0.25), 0px 1px 2px 0px rgba(0, 0, 0, 0.35);
+  --md-sys-elevation-3: 0px 4px 8px 3px rgba(0, 0, 0, 0.3), 0px 1px 3px 0px rgba(0, 0, 0, 0.4);
+
+  /* Transitions */
+  --md-sys-motion-duration-short: 150ms;
+  --md-sys-motion-duration-medium: 250ms;
+  --md-sys-motion-easing: cubic-bezier(0.2, 0, 0, 1);
+
+  /* Checkerboard transparency grid colors */
+  --checker-light: #26272b;
+  --checker-dark: #1b1c20;
+}
