@@ -2,13 +2,16 @@
 
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
 
-🇬🇧 Converting images into shit pixel art
+🇬🇧 Converting images into shit pixel art  
 🇷🇺 Конвертация изображений в пиксель арт
 
-Зеркала/Mirrors:
-p.erikusa482.workers.dev
-pp4.netlify.app
-pp.22web.org
-anteit.github.io/p
+🟥🟧🟨🟩🟦🟪🟫⬛⬜
+
+**Зеркала / Mirrors**
+
+- [anteit.github.io/p](https://anteit.github.io/p)
+- [p.erikusa482.workers.dev](https://p.erikusa482.workers.dev)
+- [pp4.netlify.app](https://pp4.netlify.app)
+- [pp.22web.org](https://pp.22web.org)
 
 🟥🟧🟨🟩🟦🟪🟫⬛⬜
